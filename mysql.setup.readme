@@ -1,0 +1,7 @@
+
+
+service mysql restart
+
+
+ mysql -u root -p
+password : root
